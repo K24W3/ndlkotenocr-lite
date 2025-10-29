@@ -104,6 +104,7 @@ def process(args):
             #print("layout detection Done!",e1-start)
             resultobj=[dict(),dict()]
             resultobj[0][0]=list()
+            print(classeslist)
             for i in range(16):
                 resultobj[1][i]=[]
             for det in detections:
