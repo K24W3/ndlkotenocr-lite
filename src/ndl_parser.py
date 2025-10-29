@@ -848,6 +848,7 @@ def convert_to_xml_string3(img_w, img_h, img_path, classes, result,
     for c in range(len(classes)):
         cls = classes[c]
         if cls.startswith('block_'):
+            #print("We find block! len=",len(res_bbox[c]))
             for block in res_bbox[c]:
                 conf = float(block[4])
                 if conf < score_thr:
