@@ -64,6 +64,6 @@ def batch_convert(folder_path):
 
 # === 使用例 ===
 # 変換対象フォルダを指定（適宜変更）
-target_folder = "sample_img"  # 例: "./xml_files"
+target_folder = "../sample_img"  # 例: "./xml_files"
 batch_convert(target_folder)
 
