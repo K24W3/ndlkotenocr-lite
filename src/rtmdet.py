@@ -75,7 +75,7 @@ class RTMDet:
     
     def postprocess(self, outputs):
         bboxes,class_ids=outputs
-        #print(class_ids)
+        print(class_ids)
         class_ids=np.squeeze(class_ids)
         predictions = np.squeeze(bboxes)
         #print(predictions)
