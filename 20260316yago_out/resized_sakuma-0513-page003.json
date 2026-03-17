@@ -1,0 +1,262 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4364,
+            523
+          ],
+          [
+            4364,
+            3288
+          ],
+          [
+            4634,
+            523
+          ],
+          [
+            4634,
+            3288
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "延門人中村八郎朝棟ナル",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            3950,
+            549
+          ],
+          [
+            3950,
+            3326
+          ],
+          [
+            4238,
+            549
+          ],
+          [
+            4238,
+            3326
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "者宝殿工所掲ノ算題ヲ袖",
+        "isTextline": "true",
+        "confidence": 0.88
+      },
+      {
+        "boundingBox": [
+          [
+            3613,
+            560
+          ],
+          [
+            3613,
+            3318
+          ],
+          [
+            3819,
+            560
+          ],
+          [
+            3819,
+            3318
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "ニシ来リテ予ニ示ス予是",
+        "isTextline": "true",
+        "confidence": 0.86
+      },
+      {
+        "boundingBox": [
+          [
+            3188,
+            562
+          ],
+          [
+            3188,
+            3295
+          ],
+          [
+            3428,
+            562
+          ],
+          [
+            3428,
+            3295
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "ヲ見テ其解義ヲ作シ或ハ",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            2788,
+            559
+          ],
+          [
+            2788,
+            3344
+          ],
+          [
+            3095,
+            559
+          ],
+          [
+            3095,
+            3344
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "換其題辞テ穿鑿術路シテ",
+        "isTextline": "true",
+        "confidence": 0.807
+      },
+      {
+        "boundingBox": [
+          [
+            2152,
+            554
+          ],
+          [
+            2152,
+            3349
+          ],
+          [
+            2404,
+            554
+          ],
+          [
+            2404,
+            3349
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "名テ撰題録ト云二三子等",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            1759,
+            560
+          ],
+          [
+            1759,
+            3352
+          ],
+          [
+            2003,
+            560
+          ],
+          [
+            2003,
+            3352
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "此書ヲ照シ見テ題術ノ忽",
+        "isTextline": "true",
+        "confidence": 0.876
+      },
+      {
+        "boundingBox": [
+          [
+            1352,
+            541
+          ],
+          [
+            1352,
+            3374
+          ],
+          [
+            1623,
+            541
+          ],
+          [
+            1623,
+            3374
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "セニ設ク不可ルヿヲ会得",
+        "isTextline": "true",
+        "confidence": 0.863
+      },
+      {
+        "boundingBox": [
+          [
+            1009,
+            618
+          ],
+          [
+            1009,
+            1256
+          ],
+          [
+            1176,
+            618
+          ],
+          [
+            1176,
+            1256
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "スベシ",
+        "isTextline": "true",
+        "confidence": 0.837
+      },
+      {
+        "boundingBox": [
+          [
+            541,
+            582
+          ],
+          [
+            541,
+            2587
+          ],
+          [
+            819,
+            582
+          ],
+          [
+            819,
+            2587
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "嘉永二己酉年初秋",
+        "isTextline": "true",
+        "confidence": 0.832
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 5120,
+    "img_height": 3680,
+    "img_path": "../20260316yago/resized_sakuma-0513-page003.png",
+    "img_name": "resized_sakuma-0513-page003.png"
+  }
+}

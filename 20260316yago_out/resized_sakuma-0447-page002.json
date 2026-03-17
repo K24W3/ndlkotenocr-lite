@@ -1,0 +1,662 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            3717,
+            738
+          ],
+          [
+            3717,
+            1270
+          ],
+          [
+            3902,
+            738
+          ],
+          [
+            3902,
+            1270
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "│",
+        "isTextline": "true",
+        "confidence": 0.364
+      },
+      {
+        "boundingBox": [
+          [
+            3475,
+            2002
+          ],
+          [
+            3475,
+            2127
+          ],
+          [
+            3842,
+            2002
+          ],
+          [
+            3842,
+            2127
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "十二十一",
+        "isTextline": "true",
+        "confidence": 0.455
+      },
+      {
+        "boundingBox": [
+          [
+            4532,
+            2633
+          ],
+          [
+            4532,
+            3190
+          ],
+          [
+            4639,
+            2633
+          ],
+          [
+            4639,
+            3190
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "佐久間森一郎氏寄贈",
+        "isTextline": "true",
+        "confidence": 0.654
+      },
+      {
+        "boundingBox": [
+          [
+            2189,
+            536
+          ],
+          [
+            2189,
+            1846
+          ],
+          [
+            2381,
+            536
+          ],
+          [
+            2381,
+            1846
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "階梯笄泣門人施術起源",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            1807,
+            541
+          ],
+          [
+            1807,
+            639
+          ],
+          [
+            1926,
+            541
+          ],
+          [
+            1926,
+            639
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "しけ",
+        "isTextline": "true",
+        "confidence": 0.316
+      },
+      {
+        "boundingBox": [
+          [
+            2039,
+            682
+          ],
+          [
+            2039,
+            1052
+          ],
+          [
+            2180,
+            682
+          ],
+          [
+            2180,
+            1052
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "大日本",
+        "isTextline": "true",
+        "confidence": 0.74
+      },
+      {
+        "boundingBox": [
+          [
+            1971,
+            1910
+          ],
+          [
+            1971,
+            2048
+          ],
+          [
+            2061,
+            1910
+          ],
+          [
+            2061,
+            2048
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "田",
+        "isTextline": "true",
+        "confidence": 0.32
+      },
+      {
+        "boundingBox": [
+          [
+            2005,
+            2050
+          ],
+          [
+            2005,
+            2721
+          ],
+          [
+            2195,
+            2050
+          ],
+          [
+            2195,
+            2721
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "佐久間続編",
+        "isTextline": "true",
+        "confidence": 0.683
+      },
+      {
+        "boundingBox": [
+          [
+            1827,
+            664
+          ],
+          [
+            1827,
+            1706
+          ],
+          [
+            2015,
+            664
+          ],
+          [
+            2015,
+            1706
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "磐城国田村郡文珠村",
+        "isTextline": "true",
+        "confidence": 0.539
+      },
+      {
+        "boundingBox": [
+          [
+            1815,
+            2064
+          ],
+          [
+            1815,
+            2727
+          ],
+          [
+            1990,
+            2064
+          ],
+          [
+            1990,
+            2727
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "佐久間広吉",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            1644,
+            617
+          ],
+          [
+            1644,
+            2972
+          ],
+          [
+            1838,
+            617
+          ],
+          [
+            1838,
+            2972
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "岩代国安達郡油井村中講義植野善左衛門求言",
+        "isTextline": "true",
+        "confidence": 0.574
+      },
+      {
+        "boundingBox": [
+          [
+            1714,
+            2717
+          ],
+          [
+            1714,
+            2988
+          ],
+          [
+            1889,
+            2717
+          ],
+          [
+            1889,
+            2988
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "校訂",
+        "isTextline": "true",
+        "confidence": 0.549
+      },
+      {
+        "boundingBox": [
+          [
+            1520,
+            555
+          ],
+          [
+            1520,
+            774
+          ],
+          [
+            1639,
+            555
+          ],
+          [
+            1639,
+            774
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "以十",
+        "isTextline": "true",
+        "confidence": 0.595
+      },
+      {
+        "boundingBox": [
+          [
+            1330,
+            553
+          ],
+          [
+            1330,
+            811
+          ],
+          [
+            1468,
+            553
+          ],
+          [
+            1468,
+            811
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "十一",
+        "isTextline": "true",
+        "confidence": 0.448
+      },
+      {
+        "boundingBox": [
+          [
+            1240,
+            1160
+          ],
+          [
+            1240,
+            1330
+          ],
+          [
+            1336,
+            1160
+          ],
+          [
+            1336,
+            1330
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "乙酉",
+        "isTextline": "true",
+        "confidence": 0.402
+      },
+      {
+        "boundingBox": [
+          [
+            999,
+            555
+          ],
+          [
+            999,
+            1262
+          ],
+          [
+            1132,
+            555
+          ],
+          [
+            1132,
+            1262
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "乙丑甲国",
+        "isTextline": "true",
+        "confidence": 0.412
+      },
+      {
+        "boundingBox": [
+          [
+            1447,
+            1445
+          ],
+          [
+            1447,
+            3325
+          ],
+          [
+            1618,
+            1445
+          ],
+          [
+            1618,
+            3325
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "今十如圖三角面内客甲乙丙圓径只",
+        "isTextline": "true",
+        "confidence": 0.671
+      },
+      {
+        "boundingBox": [
+          [
+            1410,
+            1684
+          ],
+          [
+            1410,
+            2062
+          ],
+          [
+            1514,
+            1684
+          ],
+          [
+            1514,
+            2062
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "女蔵二",
+        "isTextline": "true",
+        "confidence": 0.439
+      },
+      {
+        "boundingBox": [
+          [
+            1243,
+            2080
+          ],
+          [
+            1243,
+            2957
+          ],
+          [
+            1409,
+            2080
+          ],
+          [
+            1409,
+            2957
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "寸問丙円径幾何",
+        "isTextline": "true",
+        "confidence": 0.622
+      },
+      {
+        "boundingBox": [
+          [
+            1060,
+            1653
+          ],
+          [
+            1060,
+            3206
+          ],
+          [
+            1256,
+            1653
+          ],
+          [
+            1256,
+            3206
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "答曰丙国径四分九釐○六余",
+        "isTextline": "true",
+        "confidence": 0.67
+      },
+      {
+        "boundingBox": [
+          [
+            866,
+            1424
+          ],
+          [
+            866,
+            3353
+          ],
+          [
+            1058,
+            1424
+          ],
+          [
+            1058,
+            3353
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "矩曰置混沌之一命丙経丙後図求",
+        "isTextline": "true",
+        "confidence": 0.653
+      },
+      {
+        "boundingBox": [
+          [
+            773,
+            1180
+          ],
+          [
+            773,
+            1354
+          ],
+          [
+            870,
+            1180
+          ],
+          [
+            870,
+            1354
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "乙酉",
+        "isTextline": "true",
+        "confidence": 0.481
+      },
+      {
+        "boundingBox": [
+          [
+            699,
+            1961
+          ],
+          [
+            699,
+            2825
+          ],
+          [
+            842,
+            1961
+          ],
+          [
+            842,
+            2825
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "四之寫左以甲乙",
+        "isTextline": "true",
+        "confidence": 0.673
+      },
+      {
+        "boundingBox": [
+          [
+            543,
+            797
+          ],
+          [
+            543,
+            1483
+          ],
+          [
+            677,
+            797
+          ],
+          [
+            677,
+            1483
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "一",
+        "isTextline": "true",
+        "confidence": 0.399
+      },
+      {
+        "boundingBox": [
+          [
+            525,
+            1699
+          ],
+          [
+            525,
+            1762
+          ],
+          [
+            581,
+            1699
+          ],
+          [
+            581,
+            1762
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "二一",
+        "isTextline": "true",
+        "confidence": 0.398
+      },
+      {
+        "boundingBox": [
+          [
+            484,
+            1953
+          ],
+          [
+            484,
+            2836
+          ],
+          [
+            663,
+            1953
+          ],
+          [
+            663,
+            2836
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "径徹相消求矩合",
+        "isTextline": "true",
+        "confidence": 0.825
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 5120,
+    "img_height": 3680,
+    "img_path": "../20260316yago/resized_sakuma-0447-page002.png",
+    "img_name": "resized_sakuma-0447-page002.png"
+  }
+}

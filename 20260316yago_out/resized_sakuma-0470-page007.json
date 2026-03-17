@@ -1,0 +1,1887 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            4367,
+            661
+          ],
+          [
+            4367,
+            2118
+          ],
+          [
+            4569,
+            661
+          ],
+          [
+            4569,
+            2118
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "四巻以上傚之依精術如左",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            3080,
+            896
+          ],
+          [
+            3080,
+            1154
+          ],
+          [
+            3216,
+            896
+          ],
+          [
+            3216,
+            1154
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "盛平",
+        "isTextline": "true",
+        "confidence": 0.66
+      },
+      {
+        "boundingBox": [
+          [
+            2318,
+            1096
+          ],
+          [
+            2318,
+            1165
+          ],
+          [
+            2385,
+            1096
+          ],
+          [
+            2385,
+            1165
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "矢",
+        "isTextline": "true",
+        "confidence": 0.335
+      },
+      {
+        "boundingBox": [
+          [
+            2294,
+            2099
+          ],
+          [
+            2294,
+            2185
+          ],
+          [
+            2392,
+            2099
+          ],
+          [
+            2392,
+            2185
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "札",
+        "isTextline": "true",
+        "confidence": 0.38
+      },
+      {
+        "boundingBox": [
+          [
+            2291,
+            2096
+          ],
+          [
+            2291,
+            2301
+          ],
+          [
+            2373,
+            2096
+          ],
+          [
+            2373,
+            2301
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "礼礼",
+        "isTextline": "true",
+        "confidence": 0.383
+      },
+      {
+        "boundingBox": [
+          [
+            2234,
+            2099
+          ],
+          [
+            2234,
+            2188
+          ],
+          [
+            2358,
+            2099
+          ],
+          [
+            2358,
+            2188
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "札",
+        "isTextline": "true",
+        "confidence": 0.323
+      },
+      {
+        "boundingBox": [
+          [
+            2232,
+            681
+          ],
+          [
+            2232,
+            1093
+          ],
+          [
+            2388,
+            681
+          ],
+          [
+            2388,
+            1093
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "同図術曰以",
+        "isTextline": "true",
+        "confidence": 0.639
+      },
+      {
+        "boundingBox": [
+          [
+            2225,
+            1555
+          ],
+          [
+            2225,
+            2085
+          ],
+          [
+            2378,
+            1555
+          ],
+          [
+            2378,
+            2085
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "除中勺名",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            2220,
+            2101
+          ],
+          [
+            2220,
+            2187
+          ],
+          [
+            2323,
+            2101
+          ],
+          [
+            2323,
+            2187
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "秋",
+        "isTextline": "true",
+        "confidence": 0.314
+      },
+      {
+        "boundingBox": [
+          [
+            2217,
+            1080
+          ],
+          [
+            2217,
+            2089
+          ],
+          [
+            2375,
+            1080
+          ],
+          [
+            2375,
+            2089
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "長径矢差除中旬名",
+        "isTextline": "true",
+        "confidence": 0.45
+      },
+      {
+        "boundingBox": [
+          [
+            2205,
+            2216
+          ],
+          [
+            2205,
+            3500
+          ],
+          [
+            2364,
+            2216
+          ],
+          [
+            2364,
+            3500
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "相乗平方開之乗長経半",
+        "isTextline": "true",
+        "confidence": 0.72
+      },
+      {
+        "boundingBox": [
+          [
+            2003,
+            672
+          ],
+          [
+            2003,
+            3508
+          ],
+          [
+            2197,
+            672
+          ],
+          [
+            2197,
+            3508
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "守以除中釣矢相乗采短径名射以除下斜自之名御以",
+        "isTextline": "true",
+        "confidence": 0.827
+      },
+      {
+        "boundingBox": [
+          [
+            1877,
+            1568
+          ],
+          [
+            1877,
+            1680
+          ],
+          [
+            2003,
+            1568
+          ],
+          [
+            2003,
+            1680
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "盃",
+        "isTextline": "true",
+        "confidence": 0.428
+      },
+      {
+        "boundingBox": [
+          [
+            1876,
+            682
+          ],
+          [
+            1876,
+            939
+          ],
+          [
+            2007,
+            682
+          ],
+          [
+            2007,
+            939
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "掃除",
+        "isTextline": "true",
+        "confidence": 0.461
+      },
+      {
+        "boundingBox": [
+          [
+            1836,
+            943
+          ],
+          [
+            1836,
+            1051
+          ],
+          [
+            2011,
+            943
+          ],
+          [
+            2011,
+            1051
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "論",
+        "isTextline": "true",
+        "confidence": 0.566
+      },
+      {
+        "boundingBox": [
+          [
+            1830,
+            1072
+          ],
+          [
+            1830,
+            1556
+          ],
+          [
+            1984,
+            1072
+          ],
+          [
+            1984,
+            1556
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "一個余名",
+        "isTextline": "true",
+        "confidence": 0.771
+      },
+      {
+        "boundingBox": [
+          [
+            1827,
+            1563
+          ],
+          [
+            1827,
+            1679
+          ],
+          [
+            1996,
+            1563
+          ],
+          [
+            1996,
+            1679
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "鼓",
+        "isTextline": "true",
+        "confidence": 0.471
+      },
+      {
+        "boundingBox": [
+          [
+            1810,
+            1683
+          ],
+          [
+            1810,
+            3478
+          ],
+          [
+            1974,
+            1683
+          ],
+          [
+            1974,
+            3478
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "以書除御名再置書平方開之乗書",
+        "isTextline": "true",
+        "confidence": 0.794
+      },
+      {
+        "boundingBox": [
+          [
+            1804,
+            1569
+          ],
+          [
+            1804,
+            1680
+          ],
+          [
+            1952,
+            1569
+          ],
+          [
+            1952,
+            1680
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "秋",
+        "isTextline": "true",
+        "confidence": 0.602
+      },
+      {
+        "boundingBox": [
+          [
+            1719,
+            1841
+          ],
+          [
+            1719,
+            2064
+          ],
+          [
+            1809,
+            1841
+          ],
+          [
+            1809,
+            2064
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "一乗",
+        "isTextline": "true",
+        "confidence": 0.751
+      },
+      {
+        "boundingBox": [
+          [
+            1698,
+            2595
+          ],
+          [
+            1698,
+            2830
+          ],
+          [
+            1798,
+            2595
+          ],
+          [
+            1798,
+            2830
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "三乗",
+        "isTextline": "true",
+        "confidence": 0.787
+      },
+      {
+        "boundingBox": [
+          [
+            1643,
+            666
+          ],
+          [
+            1643,
+            1185
+          ],
+          [
+            1792,
+            666
+          ],
+          [
+            1792,
+            1185
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "一名元乗",
+        "isTextline": "true",
+        "confidence": 0.593
+      },
+      {
+        "boundingBox": [
+          [
+            1642,
+            1194
+          ],
+          [
+            1642,
+            1268
+          ],
+          [
+            1791,
+            1194
+          ],
+          [
+            1791,
+            1268
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "風も",
+        "isTextline": "true",
+        "confidence": 0.577
+      },
+      {
+        "boundingBox": [
+          [
+            1638,
+            1237
+          ],
+          [
+            1638,
+            1822
+          ],
+          [
+            1773,
+            1237
+          ],
+          [
+            1773,
+            1822
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "閑名氏乗角",
+        "isTextline": "true",
+        "confidence": 0.527
+      },
+      {
+        "boundingBox": [
+          [
+            1636,
+            1198
+          ],
+          [
+            1636,
+            1285
+          ],
+          [
+            1764,
+            1198
+          ],
+          [
+            1764,
+            1285
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "風",
+        "isTextline": "true",
+        "confidence": 0.41
+      },
+      {
+        "boundingBox": [
+          [
+            1630,
+            2072
+          ],
+          [
+            1630,
+            2570
+          ],
+          [
+            1766,
+            2072
+          ],
+          [
+            1766,
+            2570
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "名房乗角",
+        "isTextline": "true",
+        "confidence": 0.758
+      },
+      {
+        "boundingBox": [
+          [
+            1623,
+            1831
+          ],
+          [
+            1623,
+            2055
+          ],
+          [
+            1711,
+            1831
+          ],
+          [
+            1711,
+            2055
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "四除",
+        "isTextline": "true",
+        "confidence": 0.776
+      },
+      {
+        "boundingBox": [
+          [
+            1598,
+            2829
+          ],
+          [
+            1598,
+            3466
+          ],
+          [
+            1760,
+            2829
+          ],
+          [
+            1760,
+            3466
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "名心遂求宿",
+        "isTextline": "true",
+        "confidence": 0.798
+      },
+      {
+        "boundingBox": [
+          [
+            1604,
+            2593
+          ],
+          [
+            1604,
+            2816
+          ],
+          [
+            1683,
+            2593
+          ],
+          [
+            1683,
+            2816
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "六除",
+        "isTextline": "true",
+        "confidence": 0.813
+      },
+      {
+        "boundingBox": [
+          [
+            1512,
+            1978
+          ],
+          [
+            1512,
+            2185
+          ],
+          [
+            1597,
+            1978
+          ],
+          [
+            1597,
+            2185
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "二気",
+        "isTextline": "true",
+        "confidence": 0.833
+      },
+      {
+        "boundingBox": [
+          [
+            1452,
+            2975
+          ],
+          [
+            1452,
+            3059
+          ],
+          [
+            1565,
+            2975
+          ],
+          [
+            1565,
+            3059
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "木",
+        "isTextline": "true",
+        "confidence": 0.516
+      },
+      {
+        "boundingBox": [
+          [
+            1439,
+            656
+          ],
+          [
+            1439,
+            1938
+          ],
+          [
+            1596,
+            656
+          ],
+          [
+            1596,
+            1938
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "名○一個内蔵元余采数",
+        "isTextline": "true",
+        "confidence": 0.787
+      },
+      {
+        "boundingBox": [
+          [
+            1420,
+            2178
+          ],
+          [
+            1420,
+            2983
+          ],
+          [
+            1563,
+            2178
+          ],
+          [
+            1563,
+            2983
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "内蔵元余乗数",
+        "isTextline": "true",
+        "confidence": 0.761
+      },
+      {
+        "boundingBox": [
+          [
+            1416,
+            1974
+          ],
+          [
+            1416,
+            2180
+          ],
+          [
+            1494,
+            1974
+          ],
+          [
+            1494,
+            2180
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "三除",
+        "isTextline": "true",
+        "confidence": 0.815
+      },
+      {
+        "boundingBox": [
+          [
+            1417,
+            3083
+          ],
+          [
+            1417,
+            3322
+          ],
+          [
+            1532,
+            3083
+          ],
+          [
+            1532,
+            3322
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "名伊",
+        "isTextline": "true",
+        "confidence": 0.495
+      },
+      {
+        "boundingBox": [
+          [
+            1412,
+            2972
+          ],
+          [
+            1412,
+            3064
+          ],
+          [
+            1556,
+            2972
+          ],
+          [
+            1556,
+            3064
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "鈴木",
+        "isTextline": "true",
+        "confidence": 0.565
+      },
+      {
+        "boundingBox": [
+          [
+            1406,
+            3075
+          ],
+          [
+            1406,
+            3418
+          ],
+          [
+            1537,
+            3075
+          ],
+          [
+            1537,
+            3418
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "名伊和",
+        "isTextline": "true",
+        "confidence": 0.434
+      },
+      {
+        "boundingBox": [
+          [
+            1236,
+            1906
+          ],
+          [
+            1236,
+            2907
+          ],
+          [
+            1375,
+            1906
+          ],
+          [
+            1375,
+            2907
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "一四年代記名甲内咸大名甲内栽瓢",
+        "isTextline": "true",
+        "confidence": 0.362
+      },
+      {
+        "boundingBox": [
+          [
+            1222,
+            3070
+          ],
+          [
+            1222,
+            3326
+          ],
+          [
+            1371,
+            3070
+          ],
+          [
+            1371,
+            3326
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "名波",
+        "isTextline": "true",
+        "confidence": 0.504
+      },
+      {
+        "boundingBox": [
+          [
+            1214,
+            635
+          ],
+          [
+            1214,
+            3483
+          ],
+          [
+            1413,
+            635
+          ],
+          [
+            1413,
+            3483
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "内蔵元余乗数配名呂和名甲内蔵元余乗乗数励名波",
+        "isTextline": "true",
+        "confidence": 0.658
+      },
+      {
+        "boundingBox": [
+          [
+            1131,
+            1448
+          ],
+          [
+            1131,
+            1619
+          ],
+          [
+            1197,
+            1448
+          ],
+          [
+            1197,
+            1619
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "十一",
+        "isTextline": "true",
+        "confidence": 0.652
+      },
+      {
+        "boundingBox": [
+          [
+            1122,
+            1942
+          ],
+          [
+            1122,
+            2036
+          ],
+          [
+            1190,
+            1942
+          ],
+          [
+            1190,
+            2036
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.581
+      },
+      {
+        "boundingBox": [
+          [
+            1115,
+            2838
+          ],
+          [
+            1115,
+            3027
+          ],
+          [
+            1183,
+            2838
+          ],
+          [
+            1183,
+            3027
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "十三",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            1075,
+            1938
+          ],
+          [
+            1075,
+            2037
+          ],
+          [
+            1187,
+            1938
+          ],
+          [
+            1187,
+            2037
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.333
+      },
+      {
+        "boundingBox": [
+          [
+            1055,
+            656
+          ],
+          [
+            1055,
+            1428
+          ],
+          [
+            1215,
+            656
+          ],
+          [
+            1215,
+            1428
+          ]
+        ],
+        "id": 44,
+        "isVertical": "true",
+        "text": "内蔵元余乗数",
+        "isTextline": "true",
+        "confidence": 0.727
+      },
+      {
+        "boundingBox": [
+          [
+            1047,
+            1685
+          ],
+          [
+            1047,
+            1849
+          ],
+          [
+            1178,
+            1685
+          ],
+          [
+            1178,
+            1849
+          ]
+        ],
+        "id": 45,
+        "isVertical": "true",
+        "text": "名□",
+        "isTextline": "true",
+        "confidence": 0.461
+      },
+      {
+        "boundingBox": [
+          [
+            1045,
+            2033
+          ],
+          [
+            1045,
+            2832
+          ],
+          [
+            1181,
+            2033
+          ],
+          [
+            1181,
+            2832
+          ]
+        ],
+        "id": 46,
+        "isVertical": "true",
+        "text": "内減元余乗数",
+        "isTextline": "true",
+        "confidence": 0.796
+      },
+      {
+        "boundingBox": [
+          [
+            1025,
+            3061
+          ],
+          [
+            1025,
+            3438
+          ],
+          [
+            1166,
+            3061
+          ],
+          [
+            1166,
+            3438
+          ]
+        ],
+        "id": 47,
+        "isVertical": "true",
+        "text": "名保逢",
+        "isTextline": "true",
+        "confidence": 0.801
+      },
+      {
+        "boundingBox": [
+          [
+            1023,
+            1938
+          ],
+          [
+            1023,
+            2038
+          ],
+          [
+            1117,
+            1938
+          ],
+          [
+            1117,
+            2038
+          ]
+        ],
+        "id": 48,
+        "isVertical": "true",
+        "text": "乗",
+        "isTextline": "true",
+        "confidence": 0.663
+      },
+      {
+        "boundingBox": [
+          [
+            1023,
+            2832
+          ],
+          [
+            1023,
+            2928
+          ],
+          [
+            1102,
+            2832
+          ],
+          [
+            1102,
+            2928
+          ]
+        ],
+        "id": 49,
+        "isVertical": "true",
+        "text": "院",
+        "isTextline": "true",
+        "confidence": 0.642
+      },
+      {
+        "boundingBox": [
+          [
+            936,
+            1441
+          ],
+          [
+            936,
+            1661
+          ],
+          [
+            1028,
+            1441
+          ],
+          [
+            1028,
+            1661
+          ]
+        ],
+        "id": 50,
+        "isVertical": "true",
+        "text": "三乗",
+        "isTextline": "true",
+        "confidence": 0.767
+      },
+      {
+        "boundingBox": [
+          [
+            925,
+            2460
+          ],
+          [
+            925,
+            2672
+          ],
+          [
+            1002,
+            2460
+          ],
+          [
+            1002,
+            2672
+          ]
+        ],
+        "id": 51,
+        "isVertical": "true",
+        "text": "一乗",
+        "isTextline": "true",
+        "confidence": 0.814
+      },
+      {
+        "boundingBox": [
+          [
+            854,
+            659
+          ],
+          [
+            854,
+            1442
+          ],
+          [
+            1013,
+            659
+          ],
+          [
+            1013,
+            1442
+          ]
+        ],
+        "id": 52,
+        "isVertical": "true",
+        "text": "求之置保采礼",
+        "isTextline": "true",
+        "confidence": 0.696
+      },
+      {
+        "boundingBox": [
+          [
+            847,
+            1687
+          ],
+          [
+            847,
+            2409
+          ],
+          [
+            980,
+            1687
+          ],
+          [
+            980,
+            2409
+          ]
+        ],
+        "id": 53,
+        "isVertical": "true",
+        "text": "以拭仁余乗礼",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            845,
+            1446
+          ],
+          [
+            845,
+            1647
+          ],
+          [
+            924,
+            1446
+          ],
+          [
+            924,
+            1647
+          ]
+        ],
+        "id": 54,
+        "isVertical": "true",
+        "text": "八除",
+        "isTextline": "true",
+        "confidence": 0.649
+      },
+      {
+        "boundingBox": [
+          [
+            832,
+            2451
+          ],
+          [
+            832,
+            2673
+          ],
+          [
+            911,
+            2451
+          ],
+          [
+            911,
+            2673
+          ]
+        ],
+        "id": 55,
+        "isVertical": "true",
+        "text": "六除",
+        "isTextline": "true",
+        "confidence": 0.792
+      },
+      {
+        "boundingBox": [
+          [
+            833,
+            2677
+          ],
+          [
+            833,
+            3439
+          ],
+          [
+            984,
+            2677
+          ],
+          [
+            984,
+            3439
+          ]
+        ],
+        "id": 56,
+        "isVertical": "true",
+        "text": "以減波余乗乗礼",
+        "isTextline": "true",
+        "confidence": 0.74
+      },
+      {
+        "boundingBox": [
+          [
+            734,
+            1318
+          ],
+          [
+            734,
+            1538
+          ],
+          [
+            820,
+            1318
+          ],
+          [
+            820,
+            1538
+          ]
+        ],
+        "id": 57,
+        "isVertical": "true",
+        "text": "三米",
+        "isTextline": "true",
+        "confidence": 0.82
+      },
+      {
+        "boundingBox": [
+          [
+            644,
+            783
+          ],
+          [
+            644,
+            1297
+          ],
+          [
+            799,
+            783
+          ],
+          [
+            799,
+            1297
+          ]
+        ],
+        "id": 58,
+        "isVertical": "true",
+        "text": "加州乗礼",
+        "isTextline": "true",
+        "confidence": 0.627
+      },
+      {
+        "boundingBox": [
+          [
+            642,
+            2785
+          ],
+          [
+            642,
+            3434
+          ],
+          [
+            793,
+            2785
+          ],
+          [
+            793,
+            3434
+          ]
+        ],
+        "id": 59,
+        "isVertical": "true",
+        "text": "内減氏余乗",
+        "isTextline": "true",
+        "confidence": 0.755
+      },
+      {
+        "boundingBox": [
+          [
+            637,
+            1544
+          ],
+          [
+            637,
+            2691
+          ],
+          [
+            796,
+            1544
+          ],
+          [
+            796,
+            2691
+          ]
+        ],
+        "id": 60,
+        "isVertical": "true",
+        "text": "加伊為原数置甲乗御",
+        "isTextline": "true",
+        "confidence": 0.81
+      },
+      {
+        "boundingBox": [
+          [
+            636,
+            672
+          ],
+          [
+            636,
+            778
+          ],
+          [
+            821,
+            672
+          ],
+          [
+            821,
+            778
+          ]
+        ],
+        "id": 61,
+        "isVertical": "true",
+        "text": "湯",
+        "isTextline": "true",
+        "confidence": 0.655
+      },
+      {
+        "boundingBox": [
+          [
+            634,
+            1313
+          ],
+          [
+            634,
+            1533
+          ],
+          [
+            718,
+            1313
+          ],
+          [
+            718,
+            1533
+          ]
+        ],
+        "id": 62,
+        "isVertical": "true",
+        "text": "二除",
+        "isTextline": "true",
+        "confidence": 0.769
+      },
+      {
+        "boundingBox": [
+          [
+            630,
+            2693
+          ],
+          [
+            630,
+            2786
+          ],
+          [
+            797,
+            2693
+          ],
+          [
+            797,
+            2786
+          ]
+        ],
+        "id": 63,
+        "isVertical": "true",
+        "text": "研",
+        "isTextline": "true",
+        "confidence": 0.674
+      },
+      {
+        "boundingBox": [
+          [
+            530,
+            1935
+          ],
+          [
+            530,
+            2022
+          ],
+          [
+            621,
+            1935
+          ],
+          [
+            621,
+            2022
+          ]
+        ],
+        "id": 64,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.474
+      },
+      {
+        "boundingBox": [
+          [
+            512,
+            2296
+          ],
+          [
+            512,
+            2402
+          ],
+          [
+            605,
+            2296
+          ],
+          [
+            605,
+            2402
+          ]
+        ],
+        "id": 65,
+        "isVertical": "true",
+        "text": "十",
+        "isTextline": "true",
+        "confidence": 0.322
+      },
+      {
+        "boundingBox": [
+          [
+            487,
+            2305
+          ],
+          [
+            487,
+            2412
+          ],
+          [
+            603,
+            2305
+          ],
+          [
+            603,
+            2412
+          ]
+        ],
+        "id": 66,
+        "isVertical": "true",
+        "text": "川上",
+        "isTextline": "true",
+        "confidence": 0.376
+      },
+      {
+        "boundingBox": [
+          [
+            480,
+            1928
+          ],
+          [
+            480,
+            2019
+          ],
+          [
+            616,
+            1928
+          ],
+          [
+            616,
+            2019
+          ]
+        ],
+        "id": 67,
+        "isVertical": "true",
+        "text": "歌",
+        "isTextline": "true",
+        "confidence": 0.37
+      },
+      {
+        "boundingBox": [
+          [
+            456,
+            1061
+          ],
+          [
+            456,
+            1153
+          ],
+          [
+            610,
+            1061
+          ],
+          [
+            610,
+            1153
+          ]
+        ],
+        "id": 68,
+        "isVertical": "true",
+        "text": "琴",
+        "isTextline": "true",
+        "confidence": 0.627
+      },
+      {
+        "boundingBox": [
+          [
+            454,
+            1174
+          ],
+          [
+            454,
+            1932
+          ],
+          [
+            603,
+            1174
+          ],
+          [
+            603,
+            1932
+          ]
+        ],
+        "id": 69,
+        "isVertical": "true",
+        "text": "内減氏余乗数",
+        "isTextline": "true",
+        "confidence": 0.482
+      },
+      {
+        "boundingBox": [
+          [
+            451,
+            647
+          ],
+          [
+            451,
+            1027
+          ],
+          [
+            609,
+            647
+          ],
+          [
+            609,
+            1027
+          ]
+        ],
+        "id": 70,
+        "isVertical": "true",
+        "text": "載名知",
+        "isTextline": "true",
+        "confidence": 0.513
+      },
+      {
+        "boundingBox": [
+          [
+            449,
+            1931
+          ],
+          [
+            449,
+            2025
+          ],
+          [
+            553,
+            1931
+          ],
+          [
+            553,
+            2025
+          ]
+        ],
+        "id": 71,
+        "isVertical": "true",
+        "text": "新",
+        "isTextline": "true",
+        "confidence": 0.425
+      },
+      {
+        "boundingBox": [
+          [
+            447,
+            2048
+          ],
+          [
+            447,
+            2283
+          ],
+          [
+            573,
+            2048
+          ],
+          [
+            573,
+            2283
+          ]
+        ],
+        "id": 72,
+        "isVertical": "true",
+        "text": "名利",
+        "isTextline": "true",
+        "confidence": 0.55
+      },
+      {
+        "boundingBox": [
+          [
+            440,
+            2297
+          ],
+          [
+            440,
+            2407
+          ],
+          [
+            598,
+            2297
+          ],
+          [
+            598,
+            2407
+          ]
+        ],
+        "id": 73,
+        "isVertical": "true",
+        "text": "巻",
+        "isTextline": "true",
+        "confidence": 0.622
+      },
+      {
+        "boundingBox": [
+          [
+            421,
+            2403
+          ],
+          [
+            421,
+            3445
+          ],
+          [
+            596,
+            2403
+          ],
+          [
+            596,
+            3445
+          ]
+        ],
+        "id": 74,
+        "isVertical": "true",
+        "text": "十六月一名乙内減",
+        "isTextline": "true",
+        "confidence": 0.723
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 5120,
+    "img_height": 3680,
+    "img_path": "../20260316yago/resized_sakuma-0470-page007.png",
+    "img_name": "resized_sakuma-0470-page007.png"
+  }
+}
