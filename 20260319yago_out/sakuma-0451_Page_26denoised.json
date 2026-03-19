@@ -1,0 +1,812 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            8372,
+            301
+          ],
+          [
+            8372,
+            6601
+          ],
+          [
+            8874,
+            301
+          ],
+          [
+            8874,
+            6601
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "列云従等球経累我径次第内二割表重云欲使其伺難",
+        "isTextline": "true",
+        "confidence": 0.826
+      },
+      {
+        "boundingBox": [
+          [
+            7970,
+            358
+          ],
+          [
+            7970,
+            3460
+          ],
+          [
+            8319,
+            358
+          ],
+          [
+            8319,
+            3460
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "至少悶得全我径其術如何",
+        "isTextline": "true",
+        "confidence": 0.777
+      },
+      {
+        "boundingBox": [
+          [
+            7613,
+            1153
+          ],
+          [
+            7613,
+            4385
+          ],
+          [
+            8019,
+            1153
+          ],
+          [
+            8019,
+            4385
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "答曰全球径四百八十六寸",
+        "isTextline": "true",
+        "confidence": 0.758
+      },
+      {
+        "boundingBox": [
+          [
+            7459,
+            2325
+          ],
+          [
+            7459,
+            3862
+          ],
+          [
+            7673,
+            2325
+          ],
+          [
+            7673,
+            3862
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "両数内得奇と",
+        "isTextline": "true",
+        "confidence": 0.546
+      },
+      {
+        "boundingBox": [
+          [
+            7386,
+            3737
+          ],
+          [
+            7386,
+            6608
+          ],
+          [
+            7756,
+            3737
+          ],
+          [
+            7756,
+            6608
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "一同其長名天加其平名以数一",
+        "isTextline": "true",
+        "confidence": 0.383
+      },
+      {
+        "boundingBox": [
+          [
+            7276,
+            283
+          ],
+          [
+            7276,
+            6577
+          ],
+          [
+            7784,
+            283
+          ],
+          [
+            7784,
+            6577
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "所曰長早至納之両歳問偶崎其長名天加其年為以数",
+        "isTextline": "true",
+        "confidence": 0.404
+      },
+      {
+        "boundingBox": [
+          [
+            7237,
+            2369
+          ],
+          [
+            7237,
+            3785
+          ],
+          [
+            7473,
+            2369
+          ],
+          [
+            7473,
+            3785
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "数則各倍之",
+        "isTextline": "true",
+        "confidence": 0.474
+      },
+      {
+        "boundingBox": [
+          [
+            7207,
+            364
+          ],
+          [
+            7207,
+            2367
+          ],
+          [
+            7566,
+            364
+          ],
+          [
+            7566,
+            2367
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "術曰長平豆納之",
+        "isTextline": "true",
+        "confidence": 0.585
+      },
+      {
+        "boundingBox": [
+          [
+            7179,
+            4277
+          ],
+          [
+            7179,
+            6574
+          ],
+          [
+            7370,
+            4277
+          ],
+          [
+            7370,
+            6574
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "一の次数七人或一固ニ",
+        "isTextline": "true",
+        "confidence": 0.315
+      },
+      {
+        "boundingBox": [
+          [
+            7156,
+            4366
+          ],
+          [
+            7156,
+            5484
+          ],
+          [
+            7370,
+            4366
+          ],
+          [
+            7370,
+            5484
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "乃次数七",
+        "isTextline": "true",
+        "confidence": 0.53
+      },
+      {
+        "boundingBox": [
+          [
+            7074,
+            5541
+          ],
+          [
+            7074,
+            6535
+          ],
+          [
+            7354,
+            5541
+          ],
+          [
+            7354,
+            6535
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "以減一個",
+        "isTextline": "true",
+        "confidence": 0.608
+      },
+      {
+        "boundingBox": [
+          [
+            7041,
+            5256
+          ],
+          [
+            7041,
+            5436
+          ],
+          [
+            7189,
+            5256
+          ],
+          [
+            7189,
+            5436
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "中",
+        "isTextline": "true",
+        "confidence": 0.313
+      },
+      {
+        "boundingBox": [
+          [
+            6982,
+            4397
+          ],
+          [
+            6982,
+            5239
+          ],
+          [
+            7154,
+            4397
+          ],
+          [
+            7154,
+            5239
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "者七乗",
+        "isTextline": "true",
+        "confidence": 0.55
+      },
+      {
+        "boundingBox": [
+          [
+            6823,
+            314
+          ],
+          [
+            6823,
+            4560
+          ],
+          [
+            7268,
+            314
+          ],
+          [
+            7268,
+            4560
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "一新与一個差名地如次数幾自乗之都",
+        "isTextline": "true",
+        "confidence": 0.445
+      },
+      {
+        "boundingBox": [
+          [
+            6441,
+            280
+          ],
+          [
+            6441,
+            6675
+          ],
+          [
+            6979,
+            280
+          ],
+          [
+            6979,
+            6675
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "余以除平因天半乗割名人自之加地国長巾平田和嗣",
+        "isTextline": "true",
+        "confidence": 0.748
+      },
+      {
+        "boundingBox": [
+          [
+            6079,
+            324
+          ],
+          [
+            6079,
+            5242
+          ],
+          [
+            6558,
+            324
+          ],
+          [
+            6558,
+            5242
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "平方加人以除長国早采地得全琉□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.777
+      },
+      {
+        "boundingBox": [
+          [
+            4396,
+            412
+          ],
+          [
+            4396,
+            2888
+          ],
+          [
+            4694,
+            412
+          ],
+          [
+            4694,
+            2888
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "短四割内減一個名地",
+        "isTextline": "true",
+        "confidence": 0.647
+      },
+      {
+        "boundingBox": [
+          [
+            4280,
+            4359
+          ],
+          [
+            4280,
+            4992
+          ],
+          [
+            4459,
+            4359
+          ],
+          [
+            4459,
+            4992
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "地幾自衆中",
+        "isTextline": "true",
+        "confidence": 0.361
+      },
+      {
+        "boundingBox": [
+          [
+            4004,
+            465
+          ],
+          [
+            4004,
+            2901
+          ],
+          [
+            4316,
+            465
+          ],
+          [
+            4316,
+            2901
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "一如次数幾自乗之名坤",
+        "isTextline": "true",
+        "confidence": 0.659
+      },
+      {
+        "boundingBox": [
+          [
+            4078,
+            4091
+          ],
+          [
+            4078,
+            4282
+          ],
+          [
+            4620,
+            4091
+          ],
+          [
+            4620,
+            4282
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "村",
+        "isTextline": "true",
+        "confidence": 0.343
+      },
+      {
+        "boundingBox": [
+          [
+            4038,
+            5821
+          ],
+          [
+            4038,
+            6057
+          ],
+          [
+            4740,
+            5821
+          ],
+          [
+            4740,
+            6057
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "同十一月",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            3638,
+            426
+          ],
+          [
+            3638,
+            3821
+          ],
+          [
+            3979,
+            426
+          ],
+          [
+            3979,
+            3821
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "二十三日始而始球始球位ヨリ尾前ノ球径",
+        "isTextline": "true",
+        "confidence": 0.734
+      },
+      {
+        "boundingBox": [
+          [
+            3558,
+            3825
+          ],
+          [
+            3558,
+            4252
+          ],
+          [
+            3700,
+            3825
+          ],
+          [
+            3700,
+            4252
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "一割サ",
+        "isTextline": "true",
+        "confidence": 0.494
+      },
+      {
+        "boundingBox": [
+          [
+            3441,
+            3868
+          ],
+          [
+            3441,
+            6481
+          ],
+          [
+            3739,
+            3868
+          ],
+          [
+            3739,
+            6481
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "有難才有",
+        "isTextline": "true",
+        "confidence": 0.469
+      },
+      {
+        "boundingBox": [
+          [
+            3291,
+            479
+          ],
+          [
+            3291,
+            3745
+          ],
+          [
+            3581,
+            479
+          ],
+          [
+            3581,
+            3745
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.489
+      },
+      {
+        "boundingBox": [
+          [
+            3264,
+            4048
+          ],
+          [
+            3264,
+            5487
+          ],
+          [
+            3475,
+            4048
+          ],
+          [
+            3475,
+            5487
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "乃地也乃始球也",
+        "isTextline": "true",
+        "confidence": 0.463
+      },
+      {
+        "boundingBox": [
+          [
+            2840,
+            401
+          ],
+          [
+            2840,
+            6606
+          ],
+          [
+            3225,
+            401
+          ],
+          [
+            3225,
+            6606
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "解曰此次数ナルモノハ菱ノ長平至減シテ等数ヲ得",
+        "isTextline": "true",
+        "confidence": 0.874
+      },
+      {
+        "boundingBox": [
+          [
+            2467,
+            393
+          ],
+          [
+            2467,
+            6595
+          ],
+          [
+            2832,
+            393
+          ],
+          [
+            2832,
+            6595
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "以テ長手ヲ約シ其天ト名ケ乃長ノ方等致個数与一",
+        "isTextline": "true",
+        "confidence": 0.873
+      },
+      {
+        "boundingBox": [
+          [
+            1765,
+            420
+          ],
+          [
+            1765,
+            3568
+          ],
+          [
+            2112,
+            420
+          ],
+          [
+            2112,
+            3568
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "又相等於是求球経和如左",
+        "isTextline": "true",
+        "confidence": 0.852
+      },
+      {
+        "boundingBox": [
+          [
+            2112,
+            387
+          ],
+          [
+            2112,
+            6585
+          ],
+          [
+            2444,
+            387
+          ],
+          [
+            2444,
+            6585
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "一個差ナリ其平ヲ加イテ等球総個数トシ果致個数モ",
+        "isTextline": "true",
+        "confidence": 0.864
+      },
+      {
+        "boundingBox": [
+          [
+            1344,
+            576
+          ],
+          [
+            1344,
+            6260
+          ],
+          [
+            1640,
+            576
+          ],
+          [
+            1640,
+            6260
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "判名判名判名判名判名判名判名判名判名判",
+        "isTextline": "true",
+        "confidence": 0.638
+      },
+      {
+        "boundingBox": [
+          [
+            1029,
+            791
+          ],
+          [
+            1029,
+            6109
+          ],
+          [
+            1332,
+            791
+          ],
+          [
+            1332,
+            6109
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.414
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 9922,
+    "img_height": 7012,
+    "img_path": "../20260319yago/sakuma-0451_Page_26denoised.png",
+    "img_name": "sakuma-0451_Page_26denoised.png"
+  }
+}

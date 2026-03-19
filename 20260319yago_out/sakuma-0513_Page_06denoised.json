@@ -1,0 +1,1112 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            8785,
+            1116
+          ],
+          [
+            8785,
+            6421
+          ],
+          [
+            8969,
+            1116
+          ],
+          [
+            8969,
+            6421
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "評曰此答術ヲ見レハ過乗等モナクシテ可ナリ然￣ナク",
+        "isTextline": "true",
+        "confidence": 0.676
+      },
+      {
+        "boundingBox": [
+          [
+            8589,
+            1122
+          ],
+          [
+            8589,
+            6411
+          ],
+          [
+            8779,
+            1122
+          ],
+          [
+            8779,
+            6411
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "レドモ帰除式ニシテ眼前ノ軽数ヲトラス母子也、",
+        "isTextline": "true",
+        "confidence": 0.716
+      },
+      {
+        "boundingBox": [
+          [
+            8391,
+            1190
+          ],
+          [
+            8391,
+            4604
+          ],
+          [
+            8566,
+            1190
+          ],
+          [
+            8566,
+            4604
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "命セシハ不可ナリ又就是類類ヲ",
+        "isTextline": "true",
+        "confidence": 0.447
+      },
+      {
+        "boundingBox": [
+          [
+            8331,
+            3446
+          ],
+          [
+            8331,
+            5695
+          ],
+          [
+            8536,
+            3446
+          ],
+          [
+            8536,
+            5695
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "就是類題ヲ左二挙ク",
+        "isTextline": "true",
+        "confidence": 0.391
+      },
+      {
+        "boundingBox": [
+          [
+            8208,
+            1676
+          ],
+          [
+            8208,
+            3397
+          ],
+          [
+            8372,
+            1676
+          ],
+          [
+            8372,
+            3397
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "甲図径四十九寸",
+        "isTextline": "true",
+        "confidence": 0.717
+      },
+      {
+        "boundingBox": [
+          [
+            8034,
+            1708
+          ],
+          [
+            8034,
+            3389
+          ],
+          [
+            8181,
+            1708
+          ],
+          [
+            8181,
+            3389
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "乙圓径三十三寸",
+        "isTextline": "true",
+        "confidence": 0.839
+      },
+      {
+        "boundingBox": [
+          [
+            7442,
+            2379
+          ],
+          [
+            7442,
+            2707
+          ],
+          [
+            7614,
+            2379
+          ],
+          [
+            7614,
+            2707
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "甲国",
+        "isTextline": "true",
+        "confidence": 0.429
+      },
+      {
+        "boundingBox": [
+          [
+            7536,
+            2900
+          ],
+          [
+            7536,
+            6423
+          ],
+          [
+            7839,
+            2900
+          ],
+          [
+            7839,
+            6423
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "今有如図三角／三／三角内設二科客全甲乙",
+        "isTextline": "true",
+        "confidence": 0.74
+      },
+      {
+        "boundingBox": [
+          [
+            7170,
+            2961
+          ],
+          [
+            7170,
+            6265
+          ],
+          [
+            7456,
+            2961
+          ],
+          [
+            7456,
+            6265
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "円只云甲径九寸問乙円径幾何",
+        "isTextline": "true",
+        "confidence": 0.819
+      },
+      {
+        "boundingBox": [
+          [
+            6814,
+            1810
+          ],
+          [
+            6814,
+            2748
+          ],
+          [
+            7045,
+            1810
+          ],
+          [
+            7045,
+            2748
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "乙丑全円",
+        "isTextline": "true",
+        "confidence": 0.358
+      },
+      {
+        "boundingBox": [
+          [
+            6817,
+            2219
+          ],
+          [
+            6817,
+            2848
+          ],
+          [
+            7056,
+            2219
+          ],
+          [
+            7056,
+            2848
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "全円",
+        "isTextline": "true",
+        "confidence": 0.305
+      },
+      {
+        "boundingBox": [
+          [
+            6799,
+            3413
+          ],
+          [
+            6799,
+            5789
+          ],
+          [
+            7084,
+            3413
+          ],
+          [
+            7084,
+            5789
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "答曰乙円径一十一寸",
+        "isTextline": "true",
+        "confidence": 0.764
+      },
+      {
+        "boundingBox": [
+          [
+            6344,
+            1685
+          ],
+          [
+            6344,
+            2109
+          ],
+          [
+            6600,
+            1685
+          ],
+          [
+            6600,
+            2109
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "三角",
+        "isTextline": "true",
+        "confidence": 0.311
+      },
+      {
+        "boundingBox": [
+          [
+            6398,
+            2999
+          ],
+          [
+            6398,
+            4235
+          ],
+          [
+            6690,
+            2999
+          ],
+          [
+            6690,
+            4235
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "種曰依",
+        "isTextline": "true",
+        "confidence": 0.552
+      },
+      {
+        "boundingBox": [
+          [
+            6041,
+            2991
+          ],
+          [
+            6041,
+            4273
+          ],
+          [
+            6361,
+            2991
+          ],
+          [
+            6361,
+            4273
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "図各得に",
+        "isTextline": "true",
+        "confidence": 0.549
+      },
+      {
+        "boundingBox": [
+          [
+            6380,
+            4731
+          ],
+          [
+            6380,
+            5013
+          ],
+          [
+            6467,
+            4731
+          ],
+          [
+            6467,
+            5013
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "田段半",
+        "isTextline": "true",
+        "confidence": 0.449
+      },
+      {
+        "boundingBox": [
+          [
+            5410,
+            1106
+          ],
+          [
+            5410,
+            1452
+          ],
+          [
+            5822,
+            1106
+          ],
+          [
+            5822,
+            1452
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "十一月",
+        "isTextline": "true",
+        "confidence": 0.394
+      },
+      {
+        "boundingBox": [
+          [
+            5335,
+            1368
+          ],
+          [
+            5335,
+            1477
+          ],
+          [
+            5464,
+            1368
+          ],
+          [
+            5464,
+            1477
+          ]
+        ],
+        "id": 17,
+        "isVertical": "true",
+        "text": "六",
+        "isTextline": "true",
+        "confidence": 0.316
+      },
+      {
+        "boundingBox": [
+          [
+            5411,
+            1561
+          ],
+          [
+            5411,
+            1755
+          ],
+          [
+            5608,
+            1561
+          ],
+          [
+            5608,
+            1755
+          ]
+        ],
+        "id": 18,
+        "isVertical": "true",
+        "text": "金",
+        "isTextline": "true",
+        "confidence": 0.32
+      },
+      {
+        "boundingBox": [
+          [
+            5797,
+            1889
+          ],
+          [
+            5797,
+            2207
+          ],
+          [
+            5904,
+            1889
+          ],
+          [
+            5904,
+            2207
+          ]
+        ],
+        "id": 19,
+        "isVertical": "true",
+        "text": "三十六日",
+        "isTextline": "true",
+        "confidence": 0.349
+      },
+      {
+        "boundingBox": [
+          [
+            5609,
+            2520
+          ],
+          [
+            5609,
+            4446
+          ],
+          [
+            5906,
+            2520
+          ],
+          [
+            5906,
+            4446
+          ]
+        ],
+        "id": 20,
+        "isVertical": "true",
+        "text": "所求前列好□未刻再刻",
+        "isTextline": "true",
+        "confidence": 0.583
+      },
+      {
+        "boundingBox": [
+          [
+            5279,
+            2545
+          ],
+          [
+            5279,
+            3320
+          ],
+          [
+            5540,
+            2545
+          ],
+          [
+            5540,
+            3320
+          ]
+        ],
+        "id": 21,
+        "isVertical": "true",
+        "text": "○矩合",
+        "isTextline": "true",
+        "confidence": 0.695
+      },
+      {
+        "boundingBox": [
+          [
+            4391,
+            1048
+          ],
+          [
+            4391,
+            2004
+          ],
+          [
+            4660,
+            1048
+          ],
+          [
+            4660,
+            2004
+          ]
+        ],
+        "id": 22,
+        "isVertical": "true",
+        "text": "解子印",
+        "isTextline": "true",
+        "confidence": 0.657
+      },
+      {
+        "boundingBox": [
+          [
+            4033,
+            1119
+          ],
+          [
+            4033,
+            2022
+          ],
+          [
+            4303,
+            1119
+          ],
+          [
+            4303,
+            2022
+          ]
+        ],
+        "id": 23,
+        "isVertical": "true",
+        "text": "合乗除象",
+        "isTextline": "true",
+        "confidence": 0.56
+      },
+      {
+        "boundingBox": [
+          [
+            3755,
+            789
+          ],
+          [
+            3755,
+            1293
+          ],
+          [
+            3960,
+            789
+          ],
+          [
+            3960,
+            1293
+          ]
+        ],
+        "id": 24,
+        "isVertical": "true",
+        "text": "□□",
+        "isTextline": "true",
+        "confidence": 0.506
+      },
+      {
+        "boundingBox": [
+          [
+            3550,
+            1051
+          ],
+          [
+            3550,
+            1277
+          ],
+          [
+            3722,
+            1051
+          ],
+          [
+            3722,
+            1277
+          ]
+        ],
+        "id": 25,
+        "isVertical": "true",
+        "text": "□□□□□□□□□□□□□□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.476
+      },
+      {
+        "boundingBox": [
+          [
+            3597,
+            1282
+          ],
+          [
+            3597,
+            2253
+          ],
+          [
+            3896,
+            1282
+          ],
+          [
+            3896,
+            2253
+          ]
+        ],
+        "id": 26,
+        "isVertical": "true",
+        "text": "仍施答術",
+        "isTextline": "true",
+        "confidence": 0.773
+      },
+      {
+        "boundingBox": [
+          [
+            3264,
+            1043
+          ],
+          [
+            3264,
+            1992
+          ],
+          [
+            3517,
+            1043
+          ],
+          [
+            3517,
+            1992
+          ]
+        ],
+        "id": 27,
+        "isVertical": "true",
+        "text": "合則如左",
+        "isTextline": "true",
+        "confidence": 0.791
+      },
+      {
+        "boundingBox": [
+          [
+            4366,
+            3994
+          ],
+          [
+            4366,
+            5563
+          ],
+          [
+            4651,
+            3994
+          ],
+          [
+            4651,
+            5563
+          ]
+        ],
+        "id": 28,
+        "isVertical": "true",
+        "text": "鐘解斜乗除家",
+        "isTextline": "true",
+        "confidence": 0.523
+      },
+      {
+        "boundingBox": [
+          [
+            4070,
+            4031
+          ],
+          [
+            4070,
+            4235
+          ],
+          [
+            4295,
+            4031
+          ],
+          [
+            4295,
+            4235
+          ]
+        ],
+        "id": 29,
+        "isVertical": "true",
+        "text": "の",
+        "isTextline": "true",
+        "confidence": 0.38
+      },
+      {
+        "boundingBox": [
+          [
+            3947,
+            4173
+          ],
+          [
+            3947,
+            5558
+          ],
+          [
+            4242,
+            4173
+          ],
+          [
+            4242,
+            5558
+          ]
+        ],
+        "id": 30,
+        "isVertical": "true",
+        "text": "撰之省過乗",
+        "isTextline": "true",
+        "confidence": 0.668
+      },
+      {
+        "boundingBox": [
+          [
+            2851,
+            985
+          ],
+          [
+            2851,
+            5311
+          ],
+          [
+            3162,
+            985
+          ],
+          [
+            3162,
+            5311
+          ]
+        ],
+        "id": 31,
+        "isVertical": "true",
+        "text": "御家老中径一十一段九除之得乙径合問",
+        "isTextline": "true",
+        "confidence": 0.786
+      },
+      {
+        "boundingBox": [
+          [
+            1829,
+            2010
+          ],
+          [
+            1829,
+            2193
+          ],
+          [
+            1986,
+            2010
+          ],
+          [
+            1986,
+            2193
+          ]
+        ],
+        "id": 32,
+        "isVertical": "true",
+        "text": "金",
+        "isTextline": "true",
+        "confidence": 0.379
+      },
+      {
+        "boundingBox": [
+          [
+            2403,
+            2702
+          ],
+          [
+            2403,
+            3040
+          ],
+          [
+            2553,
+            2702
+          ],
+          [
+            2553,
+            3040
+          ]
+        ],
+        "id": 33,
+        "isVertical": "true",
+        "text": "甲川",
+        "isTextline": "true",
+        "confidence": 0.411
+      },
+      {
+        "boundingBox": [
+          [
+            1833,
+            2486
+          ],
+          [
+            1833,
+            2932
+          ],
+          [
+            2008,
+            2486
+          ],
+          [
+            2008,
+            2932
+          ]
+        ],
+        "id": 34,
+        "isVertical": "true",
+        "text": "乙",
+        "isTextline": "true",
+        "confidence": 0.357
+      },
+      {
+        "boundingBox": [
+          [
+            2444,
+            3129
+          ],
+          [
+            2444,
+            6540
+          ],
+          [
+            2760,
+            3129
+          ],
+          [
+            2760,
+            6540
+          ]
+        ],
+        "id": 35,
+        "isVertical": "true",
+        "text": "今有如図三角内設二斜客全甲",
+        "isTextline": "true",
+        "confidence": 0.777
+      },
+      {
+        "boundingBox": [
+          [
+            2093,
+            3236
+          ],
+          [
+            2093,
+            6535
+          ],
+          [
+            2368,
+            3236
+          ],
+          [
+            2368,
+            6535
+          ]
+        ],
+        "id": 36,
+        "isVertical": "true",
+        "text": "乙圓只云云甲径四十九寸問乙圓",
+        "isTextline": "true",
+        "confidence": 0.851
+      },
+      {
+        "boundingBox": [
+          [
+            1740,
+            3199
+          ],
+          [
+            1740,
+            6531
+          ],
+          [
+            2026,
+            3199
+          ],
+          [
+            2026,
+            6531
+          ]
+        ],
+        "id": 37,
+        "isVertical": "true",
+        "text": "径幾何答曰乙圓径九十九寸",
+        "isTextline": "true",
+        "confidence": 0.768
+      },
+      {
+        "boundingBox": [
+          [
+            1398,
+            4565
+          ],
+          [
+            1398,
+            4897
+          ],
+          [
+            1573,
+            4565
+          ],
+          [
+            1573,
+            4897
+          ]
+        ],
+        "id": 38,
+        "isVertical": "true",
+        "text": "二月六日",
+        "isTextline": "true",
+        "confidence": 0.305
+      },
+      {
+        "boundingBox": [
+          [
+            1400,
+            5772
+          ],
+          [
+            1400,
+            6500
+          ],
+          [
+            1634,
+            5772
+          ],
+          [
+            1634,
+            6500
+          ]
+        ],
+        "id": 39,
+        "isVertical": "true",
+        "text": "右所",
+        "isTextline": "true",
+        "confidence": 0.356
+      },
+      {
+        "boundingBox": [
+          [
+            1385,
+            3263
+          ],
+          [
+            1385,
+            3707
+          ],
+          [
+            1605,
+            3263
+          ],
+          [
+            1605,
+            3707
+          ]
+        ],
+        "id": 40,
+        "isVertical": "true",
+        "text": "神曰",
+        "isTextline": "true",
+        "confidence": 0.535
+      },
+      {
+        "boundingBox": [
+          [
+            1208,
+            4269
+          ],
+          [
+            1208,
+            4778
+          ],
+          [
+            1448,
+            4269
+          ],
+          [
+            1448,
+            4778
+          ]
+        ],
+        "id": 41,
+        "isVertical": "true",
+        "text": "子十一日",
+        "isTextline": "true",
+        "confidence": 0.329
+      },
+      {
+        "boundingBox": [
+          [
+            1053,
+            3273
+          ],
+          [
+            1053,
+            6564
+          ],
+          [
+            1420,
+            3273
+          ],
+          [
+            1420,
+            6564
+          ]
+        ],
+        "id": 42,
+        "isVertical": "true",
+        "text": "水□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.385
+      },
+      {
+        "boundingBox": [
+          [
+            1012,
+            3253
+          ],
+          [
+            1012,
+            3749
+          ],
+          [
+            1277,
+            3253
+          ],
+          [
+            1277,
+            3749
+          ]
+        ],
+        "id": 43,
+        "isVertical": "true",
+        "text": "氷谷",
+        "isTextline": "true",
+        "confidence": 0.452
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 9922,
+    "img_height": 7012,
+    "img_path": "../20260319yago/sakuma-0513_Page_06denoised.png",
+    "img_name": "sakuma-0513_Page_06denoised.png"
+  }
+}

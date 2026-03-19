@@ -1,0 +1,437 @@
+{
+  "contents": [
+    [
+      {
+        "boundingBox": [
+          [
+            8719,
+            5037
+          ],
+          [
+            8719,
+            6083
+          ],
+          [
+            8927,
+            5037
+          ],
+          [
+            8927,
+            6083
+          ]
+        ],
+        "id": 0,
+        "isVertical": "true",
+        "text": "佐久間森一郎氏崎贈",
+        "isTextline": "true",
+        "confidence": 0.724
+      },
+      {
+        "boundingBox": [
+          [
+            7424,
+            6680
+          ],
+          [
+            7424,
+            7034
+          ],
+          [
+            7523,
+            6680
+          ],
+          [
+            7523,
+            7034
+          ]
+        ],
+        "id": 1,
+        "isVertical": "true",
+        "text": "□□□□□□□□",
+        "isTextline": "true",
+        "confidence": 0.304
+      },
+      {
+        "boundingBox": [
+          [
+            4258,
+            1001
+          ],
+          [
+            4258,
+            3516
+          ],
+          [
+            4605,
+            1001
+          ],
+          [
+            4605,
+            3516
+          ]
+        ],
+        "id": 2,
+        "isVertical": "true",
+        "text": "階梯算泣門人施術起源",
+        "isTextline": "true",
+        "confidence": 0.818
+      },
+      {
+        "boundingBox": [
+          [
+            3956,
+            1290
+          ],
+          [
+            3956,
+            2007
+          ],
+          [
+            4252,
+            1290
+          ],
+          [
+            4252,
+            2007
+          ]
+        ],
+        "id": 3,
+        "isVertical": "true",
+        "text": "大日本",
+        "isTextline": "true",
+        "confidence": 0.611
+      },
+      {
+        "boundingBox": [
+          [
+            3831,
+            3635
+          ],
+          [
+            3831,
+            3911
+          ],
+          [
+            4002,
+            3635
+          ],
+          [
+            4002,
+            3911
+          ]
+        ],
+        "id": 4,
+        "isVertical": "true",
+        "text": "田内",
+        "isTextline": "true",
+        "confidence": 0.56
+      },
+      {
+        "boundingBox": [
+          [
+            3912,
+            3889
+          ],
+          [
+            3912,
+            5208
+          ],
+          [
+            4262,
+            3889
+          ],
+          [
+            4262,
+            5208
+          ]
+        ],
+        "id": 5,
+        "isVertical": "true",
+        "text": "佐久間続編",
+        "isTextline": "true",
+        "confidence": 0.609
+      },
+      {
+        "boundingBox": [
+          [
+            3577,
+            1286
+          ],
+          [
+            3577,
+            3222
+          ],
+          [
+            3912,
+            1286
+          ],
+          [
+            3912,
+            3222
+          ]
+        ],
+        "id": 6,
+        "isVertical": "true",
+        "text": "磐城国田村郡文珠村",
+        "isTextline": "true",
+        "confidence": 0.538
+      },
+      {
+        "boundingBox": [
+          [
+            3547,
+            3922
+          ],
+          [
+            3547,
+            5186
+          ],
+          [
+            3868,
+            3922
+          ],
+          [
+            3868,
+            5186
+          ]
+        ],
+        "id": 7,
+        "isVertical": "true",
+        "text": "佐久間広吉",
+        "isTextline": "true",
+        "confidence": 0.504
+      },
+      {
+        "boundingBox": [
+          [
+            3226,
+            1287
+          ],
+          [
+            3226,
+            5209
+          ],
+          [
+            3539,
+            1287
+          ],
+          [
+            3539,
+            5209
+          ]
+        ],
+        "id": 8,
+        "isVertical": "true",
+        "text": "岩代国安達郡油井村中講義植野善左衛門",
+        "isTextline": "true",
+        "confidence": 0.633
+      },
+      {
+        "boundingBox": [
+          [
+            3358,
+            5184
+          ],
+          [
+            3358,
+            5693
+          ],
+          [
+            3679,
+            5184
+          ],
+          [
+            3679,
+            5693
+          ]
+        ],
+        "id": 9,
+        "isVertical": "true",
+        "text": "校訂",
+        "isTextline": "true",
+        "confidence": 0.59
+      },
+      {
+        "boundingBox": [
+          [
+            2842,
+            2721
+          ],
+          [
+            2842,
+            6390
+          ],
+          [
+            3153,
+            2721
+          ],
+          [
+            3153,
+            6390
+          ]
+        ],
+        "id": 10,
+        "isVertical": "true",
+        "text": "今十如図三角面内容甲乙丙円径只",
+        "isTextline": "true",
+        "confidence": 0.793
+      },
+      {
+        "boundingBox": [
+          [
+            2464,
+            2747
+          ],
+          [
+            2464,
+            5633
+          ],
+          [
+            2782,
+            2747
+          ],
+          [
+            2782,
+            5633
+          ]
+        ],
+        "id": 11,
+        "isVertical": "true",
+        "text": "云乙円径一寸問丙円径幾何",
+        "isTextline": "true",
+        "confidence": 0.793
+      },
+      {
+        "boundingBox": [
+          [
+            2109,
+            3155
+          ],
+          [
+            2109,
+            6146
+          ],
+          [
+            2455,
+            3155
+          ],
+          [
+            2455,
+            6146
+          ]
+        ],
+        "id": 12,
+        "isVertical": "true",
+        "text": "答曰丙国径四分九釐○六余",
+        "isTextline": "true",
+        "confidence": 0.669
+      },
+      {
+        "boundingBox": [
+          [
+            1754,
+            2725
+          ],
+          [
+            1754,
+            6377
+          ],
+          [
+            2079,
+            2725
+          ],
+          [
+            2079,
+            6377
+          ]
+        ],
+        "id": 13,
+        "isVertical": "true",
+        "text": "矩曰置混沌之一命丙経西條依圖求",
+        "isTextline": "true",
+        "confidence": 0.591
+      },
+      {
+        "boundingBox": [
+          [
+            1428,
+            3734
+          ],
+          [
+            1428,
+            5379
+          ],
+          [
+            1674,
+            3734
+          ],
+          [
+            1674,
+            5379
+          ]
+        ],
+        "id": 14,
+        "isVertical": "true",
+        "text": "四之写左以甲乙",
+        "isTextline": "true",
+        "confidence": 0.694
+      },
+      {
+        "boundingBox": [
+          [
+            1304,
+            3504
+          ],
+          [
+            1304,
+            3696
+          ],
+          [
+            1476,
+            3504
+          ],
+          [
+            1476,
+            3696
+          ]
+        ],
+        "id": 15,
+        "isVertical": "true",
+        "text": "かす",
+        "isTextline": "true",
+        "confidence": 0.357
+      },
+      {
+        "boundingBox": [
+          [
+            1019,
+            3715
+          ],
+          [
+            1019,
+            5420
+          ],
+          [
+            1321,
+            3715
+          ],
+          [
+            1321,
+            5420
+          ]
+        ],
+        "id": 16,
+        "isVertical": "true",
+        "text": "経徹相消求矩合",
+        "isTextline": "true",
+        "confidence": 0.692
+      }
+    ]
+  ],
+  "imginfo": {
+    "img_width": 9922,
+    "img_height": 7012,
+    "img_path": "../20260319yago/sakuma-0447_Page_02denoised.png",
+    "img_name": "sakuma-0447_Page_02denoised.png"
+  }
+}
